@@ -1,0 +1,23 @@
+*{
+  font-family: Copperplate;
+}
+
+body {
+  padding: 4em;
+  background-color: #F0F8FF;
+}
+
+hr{
+  color:#EEEEEE;
+}
+
+legend{
+  font-size: 30px;
+}
+
+/* classe de erro para os campos */
+.pure-form input.error,
+.pure-form input.error:focus {
+  border-color: #e60000;
+  background: #ffe6e6;
+}
