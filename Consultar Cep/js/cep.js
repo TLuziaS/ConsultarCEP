@@ -1,12 +1,7 @@
-/*JQuery Wrapper
-jQuery(function(){}) Criou o sistema dele e inseriu para executar uma função, ou seja, é um callback(Funções que chegam como parametros)*/
-
 jQuery(function () {
 
-    //action ou tarefa
+    //Tarefa
     function onlyNumbers() {
-        //g = busca global
-        //replace("O que deve ser trocado", "Trocar por")
 
         this.value = this.value.replace(/\D/g, "");
 
@@ -45,7 +40,7 @@ jQuery(function () {
         $("#msgError").remove();
 
         $("<p>").attr("id", "msgError").text("Falha na Comunicação").prependTo("form");
-        // Criar um pop-up centralizado --- Lição de Casa
+        
     }
 
     function getAddressSuccess(address) {
@@ -66,6 +61,7 @@ jQuery(function () {
 
 
     //UI
+    
     const CEP_SIZE = 8;
 
     $("#cep").attr("maxlength", CEP_SIZE)
