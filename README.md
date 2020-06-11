@@ -1,13 +1,12 @@
-![image](https://user-images.githubusercontent.com/48417347/70578892-cb196800-1b8d-11ea-9d27-cc98d63fe23d.png)
+# Página de Consultar CEP
+![](https://user-images.githubusercontent.com/48417347/70578892-cb196800-1b8d-11ea-9d27-cc98d63fe23d.png)
 
-O projeto foi desenvolvido em jQuery, CSS e HTML.
+### Objetivo:
+Práticar os conhecimentos adquirido no curso Caelum na formação de front-end.
 
-
-# Objetivo
-Praticar os conhecimentos em jQuery.
-
-<br>
-<br>
-<br>
-
-Elaborado com o auxílio do https://www.caelum.com.br/curso-javascript-jquery
+### Ferramentas/Codificação Utilizadas:
+- VsCode;
+- HTML5;
+- CSS3;
+- jQuery;
+- API/WebService ViaCEP.
