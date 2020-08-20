@@ -11,7 +11,7 @@ Uma única página para consultar o CEP e inserir automaticamente os demais dado
 - **Dados Inserido pelo Usuário:** CEP.
 - **Dados Inserido pelo Sistema:** Logradouro, Bairro, Cidade e Estado.
 
-### Ferramentas/Codificação Utilizadas:
+### Ferramentas/Tecnologia Utilizadas:
 - VsCode;
 - HTML / HTML5;
 - CSS / CSS3;
