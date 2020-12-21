@@ -10,12 +10,11 @@ abordado no curso de formação de Front-End da <a href="https://www.caelum.com.
 ## 📋 Informação do Projeto
 Reúne uma única página onde o usúario digita apenas o CEP sem caracteres especial e o sistema busca os demais dados do endereço.
 
-- **Dados Inserido pelo Usuário:** CEP.
 - **Dados Inserido pelo Sistema:** Logradouro, Bairro, Cidade e Estado.
 
 ### 💻 Layout
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/ConsultarCEP/blob/master/layout/home.PNG">
 </p>
 
 ## 📦 Ferramentas/Tecnologias Utilizadas:
